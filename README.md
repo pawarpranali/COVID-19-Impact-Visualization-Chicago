@@ -1,6 +1,3 @@
-# COVID-19-Impact-Visualization-Chicago
-Comprehensive visualization of the impact of COVID-19 in Chicago from 2020 to 2023, focusing on demographic inconsistency in cases, strain on healthcare infrastructure, and economic effects on the dining sector.
-
 # COVID-19 Impact Visualization in Chicago
 
 This repository contains the project files for our Data Visualization group project from the MIS 6380.002 class at The University of Texas at Dallas. The project aims to create a comprehensive visualization of the impact of COVID-19 in Chicago, focusing on the demographic inconsistency in cases, the strain on healthcare infrastructure, and the economic effects on the dining sector.
